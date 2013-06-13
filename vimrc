@@ -18,7 +18,7 @@ set autoindent              "Enable autoindent
 """""""""""""""""""""""""
 set nowrap                  "No wrap lines
 set expandtab               "Expand tab to spaces
-set tabstop=4 shiftwidth=4  "A tabis 4 spaces (python)
+set tabstop=4 shiftwidth=4  "A tab is 4 spaces (python)
 
 " set usability of mouse
 set mouse=a
