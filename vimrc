@@ -12,6 +12,7 @@ set nocompatible            "No compatibilities with vi
 syntax enable       	    "Enable Syntax Highlight
 set number  	            "Enable Rows' numbers
 set autoindent              "Enable autoindent
+set cursorline            "Enable cursorline"
 
 """""""""""""""""""""""""
 " Tabs & Spaces
